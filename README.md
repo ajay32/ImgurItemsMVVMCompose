@@ -23,6 +23,9 @@ Each search result cell displays the following information:
 
 The application leverages modern Android development tools and practices, including Jetpack Compose for the UI, to create a seamless and responsive user experience. It also utilizes the Imgur API to fetch real-time data based on user queries.
 
+## Testing
+To ensure the reliability and stability of the application, comprehensive tests have been implemented, focusing on various aspects of the app. A notable addition is the ViewModel test class, which rigorously tests the ViewModel's behavior to guarantee that the application handles data fetching, state management, and user interactions correctly. These tests help in maintaining high-quality code and facilitate easier updates and enhancements.
+
 ## Screenshots
 ### Main Screen
  

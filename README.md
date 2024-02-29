@@ -25,7 +25,10 @@ The application leverages modern Android development tools and practices, includ
 
 ## Screenshots
 ### Main Screen
- ![imgurApp](https://github.com/ajay32/ImgurItemsMVVMCompose/assets/8002767/88ba2673-4864-43b5-879b-bce28aa280ad)
+ 
+![dogs](https://github.com/ajay32/ImgurItemsMVVMCompose/assets/8002767/01aeb1f3-43ba-4626-90a7-c41574d9f637)
+![humanslist](https://github.com/ajay32/ImgurItemsMVVMCompose/assets/8002767/dd6f8ac5-2ec9-4487-8484-39bb16afa131)
+
 ---
 
 For developers looking to extend or customize the application, please refer to the source code and the Imgur API documentation for detailed information on the available endpoints and response formats.
